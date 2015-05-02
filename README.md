@@ -58,6 +58,12 @@ There are three ways to style the look of the indicators.
 Each indicator has a demo which creates the same look using each of these
 methods.
 
+Install
+-------------------------
+
+You can install the 'aar' file from:
+
+ - https://jitpack.io/#jitpack-io/ViewPagerIndicator/2.4.1
 
 Including In Your Project
 -------------------------
